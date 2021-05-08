@@ -1,7 +1,7 @@
 ### Hi there, I'm Amin Asadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a C# .Net Developer and I Love Open Source !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 
 ### 👦Stats 
