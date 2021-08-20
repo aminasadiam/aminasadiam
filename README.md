@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 
-### 👦Stats 
-<div align="left">
-  
-![profile visit](https://komarev.com/ghpvc/?username=aminasadiam)
-<br />
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=aminasadiam&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
+## My activities
 
-</div>
+<a href="https://github.com/aminasadiam/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=aminasadiam&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/aminasadiam/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminasadiam&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
 ### 👨‍💻Connect with me:-
 [<img align="left"  alt="f | Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
