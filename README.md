@@ -17,6 +17,7 @@
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AGolang"><img alt="Go" src="https://custom-icon-badges.herokuapp.com/badge/Go-03599C.svg?logo=Golang-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3ARust"><img alt="Rust" src="https://custom-icon-badges.herokuapp.com/badge/Rust-03599C.svg?logo=Rust-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3ARust"><img alt="Zig" src="https://custom-icon-badges.herokuapp.com/badge/Zig-03599C.svg?logo=Zig-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -29,13 +30,13 @@
     <a href="https://github.com/aminasadiam" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://t.me/aminirl" target="_blank">
+    <a href="https://t.me/aminasadiam" target="_blank">
         <img src="https://img.icons8.com/doodle/40/000000/telegram-app.png" alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.twitter.com/ador_dev" target="_blank">
         <img src="https://img.icons8.com/nolan/40/twitter.png" alt=facebook style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:aminasadiam@outlook.com" target="_blank">
+    <a href="mailto:adoramdev@gmail.com" target="_blank">
         <img src="https://img.icons8.com/doodle/38/000000/gmail-new.png" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
