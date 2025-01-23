@@ -51,7 +51,7 @@
 
 ## Donate me
 
-<p>bitcoin: <span>bc1q4squgrt9pm7jnj7xa0hs5nvvqdpghz3wefutyw</span></p>
-<p>etherium: <span>0xe2b4ed984dB320A306821dAfFeAAc66bc9274AF1</span></p>
-<p>ton: <span>UQB2w4TlZSh8DgYYdOZTsTt_ja95ssuOVpone4YARAjR_Ojz</span></p>
-<p>usdt: <span>TYsocbGTcyAyY5oMKbSf1oJyWFHvNuwTkt</span></p>
+<p>BTC: <span>bc1q4squgrt9pm7jnj7xa0hs5nvvqdpghz3wefutyw</span></p>
+<p>ETH: <span>0xe2b4ed984dB320A306821dAfFeAAc66bc9274AF1</span></p>
+<p>TON: <span>UQB2w4TlZSh8DgYYdOZTsTt_ja95ssuOVpone4YARAjR_Ojz</span></p>
+<p>USDT: <span>TYsocbGTcyAyY5oMKbSf1oJyWFHvNuwTkt</span></p>
