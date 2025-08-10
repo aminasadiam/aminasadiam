@@ -23,16 +23,6 @@ Passionate backend developer specializing in **Golang** and **blockchain technol
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 🚀 Featured Projects
-
-### Blockchain/Go
-- [Go Blockchain Implementation](https://github.com/aminasadiam/) - A minimal blockchain implementation in Go (WIP 🚧)
-- [Ethereum Smart Contracts](https://github.com/aminasadiam/) - Sample Solidity contracts with Go backends
-
-### Fullstack
-- [Next.js Boilerplate](https://github.com/aminasadiam/nextjs-typescript) - TypeScript + Next.js starter
-- [Fullstack Template](https://github.com/aminasadiam/) - Go backend + TypeScript frontend (Coming Soon ⏳)
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminasadiam&show_icons=true&theme=radical)
@@ -41,10 +31,5 @@ Passionate backend developer specializing in **Golang** and **blockchain technol
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
-⚡ Fun fact: I can explain blockchain consensus algorithms but still struggle with CSS centering!
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aminasadiam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adoramdev@gmail.com)
