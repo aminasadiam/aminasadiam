@@ -41,15 +41,7 @@ I like understanding how things work close to the machine — memory, performanc
 
 ---
 
-### 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=aminasadiam&show_icons=true&hide_border=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminasadiam&layout=compact&hide_border=true&theme=tokyonight)
-
----
-
 ### 🌐 Connect
 
-- Twitter: https://twitter.com/aminasadiam  
+- X: https://x.com/aminasadiam  
 - Email: mailto:adoramdev@gmail.com
